@@ -1,5 +1,5 @@
 def create_anthology():
-    # Allows the user to specify book excerptts and creates a basic anthoology file!
+    # Allows the user to specify book excerptts and creates a basic anthoology file!!
 
     print("Welcome to Justine's Literary Anthology Builder!")
 
